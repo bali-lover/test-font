@@ -1,0 +1,3329 @@
+{
+  "version": "1.0",
+  "total_fonts": 79,
+  "categories": {
+    "정자체": 18,
+    "흘림체": 24,
+    "캐주얼체": 37
+  },
+  "fonts": {
+    "나눔손글씨_가람연꽃": {
+      "name": "나눔손글씨 가람연꽃",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B0%80%EB%9E%8C%EC%97%B0%EA%BD%83.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.6225,
+        "stroke_std": 0.8846,
+        "density": 0.0248,
+        "aspect": 1.0872,
+        "centroid_x": 0.4771,
+        "centroid_y": 0.482,
+        "endpoints": 5.7857,
+        "branches": 7.2857,
+        "slope": -0.0072,
+        "regions": {
+          "tl": {
+            "density": 0.029,
+            "sw": 2.6025,
+            "sw_std": 0.8764,
+            "slope": -0.077
+          },
+          "tr": {
+            "density": 0.03,
+            "sw": 2.6685,
+            "sw_std": 0.9391,
+            "slope": 0.3852
+          },
+          "bl": {
+            "density": 0.0211,
+            "sw": 2.5484,
+            "sw_std": 0.7693,
+            "slope": -0.2695
+          },
+          "br": {
+            "density": 0.0192,
+            "sw": 2.6904,
+            "sw_std": 0.929,
+            "slope": -0.0282
+          }
+        }
+      }
+    },
+    "나눔손글씨_갈맷글": {
+      "name": "나눔손글씨 갈맷글",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B0%88%EB%A7%B7%EA%B8%80.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 4.1284,
+        "stroke_std": 1.9084,
+        "density": 0.0502,
+        "aspect": 1.3318,
+        "centroid_x": 0.4576,
+        "centroid_y": 0.5013,
+        "endpoints": 6.5,
+        "branches": 4.7143,
+        "slope": -0.4085,
+        "regions": {
+          "tl": {
+            "density": 0.0445,
+            "sw": 4.1955,
+            "sw_std": 1.9202,
+            "slope": 0.2936
+          },
+          "tr": {
+            "density": 0.043,
+            "sw": 4.4344,
+            "sw_std": 2.0516,
+            "slope": 0.0465
+          },
+          "bl": {
+            "density": 0.069,
+            "sw": 4.1284,
+            "sw_std": 1.8595,
+            "slope": -0.3029
+          },
+          "br": {
+            "density": 0.0443,
+            "sw": 3.9928,
+            "sw_std": 1.8769,
+            "slope": -1.2464
+          }
+        }
+      }
+    },
+    "나눔손글씨_강부장님체": {
+      "name": "나눔손글씨 강부장님체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B0%95%EB%B6%80%EC%9E%A5%EB%8B%98%EC%B2%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.6795,
+        "stroke_std": 0.9059,
+        "density": 0.0303,
+        "aspect": 1.3584,
+        "centroid_x": 0.4648,
+        "centroid_y": 0.4855,
+        "endpoints": 6.2857,
+        "branches": 7.6429,
+        "slope": -0.1276,
+        "regions": {
+          "tl": {
+            "density": 0.0346,
+            "sw": 2.7255,
+            "sw_std": 0.9375,
+            "slope": -0.0491
+          },
+          "tr": {
+            "density": 0.036,
+            "sw": 2.8677,
+            "sw_std": 1.0791,
+            "slope": 0.5458
+          },
+          "bl": {
+            "density": 0.0309,
+            "sw": 2.5866,
+            "sw_std": 0.8052,
+            "slope": -0.1358
+          },
+          "br": {
+            "density": 0.0197,
+            "sw": 2.5915,
+            "sw_std": 0.9031,
+            "slope": -0.2648
+          }
+        }
+      }
+    },
+    "나눔손글씨_강인한_위로": {
+      "name": "나눔손글씨 강인한 위로",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B0%95%EC%9D%B8%ED%95%9C%20%EC%9C%84%EB%A1%9C.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.6258,
+        "stroke_std": 0.9181,
+        "density": 0.0216,
+        "aspect": 1.2832,
+        "centroid_x": 0.4519,
+        "centroid_y": 0.4956,
+        "endpoints": 5.6429,
+        "branches": 5.3571,
+        "slope": -0.3806,
+        "regions": {
+          "tl": {
+            "density": 0.0229,
+            "sw": 2.7236,
+            "sw_std": 1.0117,
+            "slope": -0.5839
+          },
+          "tr": {
+            "density": 0.0172,
+            "sw": 2.4282,
+            "sw_std": 0.743,
+            "slope": 0.1034
+          },
+          "bl": {
+            "density": 0.0325,
+            "sw": 2.8085,
+            "sw_std": 1.0574,
+            "slope": 0.6624
+          },
+          "br": {
+            "density": 0.015,
+            "sw": 2.9465,
+            "sw_std": 1.0883,
+            "slope": -0.9509
+          }
+        }
+      }
+    },
+    "나눔손글씨_고딕_아니고_고딩": {
+      "name": "나눔손글씨 고딕 아니고 고딩",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B3%A0%EB%94%95%20%EC%95%84%EB%8B%88%EA%B3%A0%20%EA%B3%A0%EB%94%A9.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.686,
+        "stroke_std": 0.9282,
+        "density": 0.0314,
+        "aspect": 1.219,
+        "centroid_x": 0.4871,
+        "centroid_y": 0.4888,
+        "endpoints": 5.8571,
+        "branches": 7.0714,
+        "slope": 0.0436,
+        "regions": {
+          "tl": {
+            "density": 0.0345,
+            "sw": 2.6975,
+            "sw_std": 0.9543,
+            "slope": -0.0599
+          },
+          "tr": {
+            "density": 0.0283,
+            "sw": 2.7372,
+            "sw_std": 1.0327,
+            "slope": -0.0038
+          },
+          "bl": {
+            "density": 0.0295,
+            "sw": 2.6702,
+            "sw_std": 0.8777,
+            "slope": 0.2571
+          },
+          "br": {
+            "density": 0.0335,
+            "sw": 2.8849,
+            "sw_std": 1.1206,
+            "slope": -0.5486
+          }
+        }
+      }
+    },
+    "나눔손글씨_고려글꼴": {
+      "name": "나눔손글씨 고려글꼴",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B3%A0%EB%A0%A4%EA%B8%80%EA%BC%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 3.3176,
+        "stroke_std": 1.3162,
+        "density": 0.0387,
+        "aspect": 1.0675,
+        "centroid_x": 0.5005,
+        "centroid_y": 0.4959,
+        "endpoints": 5.8571,
+        "branches": 8.7857,
+        "slope": -0.2303,
+        "regions": {
+          "tl": {
+            "density": 0.0342,
+            "sw": 3.3354,
+            "sw_std": 1.3523,
+            "slope": -0.5899
+          },
+          "tr": {
+            "density": 0.0459,
+            "sw": 3.4506,
+            "sw_std": 1.4186,
+            "slope": 0.444
+          },
+          "bl": {
+            "density": 0.0445,
+            "sw": 3.3918,
+            "sw_std": 1.3844,
+            "slope": 0.2289
+          },
+          "br": {
+            "density": 0.0303,
+            "sw": 3.222,
+            "sw_std": 1.2533,
+            "slope": 0.2056
+          }
+        }
+      }
+    },
+    "나눔손글씨_곰신체": {
+      "name": "나눔손글씨 곰신체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B3%B0%EC%8B%A0%EC%B2%B4.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.4242,
+        "stroke_std": 0.7458,
+        "density": 0.0191,
+        "aspect": 1.4379,
+        "centroid_x": 0.4752,
+        "centroid_y": 0.4793,
+        "endpoints": 5.7143,
+        "branches": 6.7143,
+        "slope": -0.0384,
+        "regions": {
+          "tl": {
+            "density": 0.022,
+            "sw": 2.3455,
+            "sw_std": 0.6521,
+            "slope": 0.0316
+          },
+          "tr": {
+            "density": 0.0232,
+            "sw": 2.4991,
+            "sw_std": 0.8125,
+            "slope": 0.5053
+          },
+          "bl": {
+            "density": 0.0194,
+            "sw": 2.3403,
+            "sw_std": 0.592,
+            "slope": -0.0068
+          },
+          "br": {
+            "density": 0.0119,
+            "sw": 2.5407,
+            "sw_std": 0.8567,
+            "slope": 0.0114
+          }
+        }
+      }
+    },
+    "나눔손글씨_규리의_일기": {
+      "name": "나눔손글씨 규리의 일기",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B7%9C%EB%A6%AC%EC%9D%98%20%EC%9D%BC%EA%B8%B0.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.2478,
+        "stroke_std": 0.5666,
+        "density": 0.0174,
+        "aspect": 1.3767,
+        "centroid_x": 0.4722,
+        "centroid_y": 0.4892,
+        "endpoints": 5.7857,
+        "branches": 7.1429,
+        "slope": -0.1109,
+        "regions": {
+          "tl": {
+            "density": 0.0171,
+            "sw": 2.1849,
+            "sw_std": 0.4342,
+            "slope": 0.1331
+          },
+          "tr": {
+            "density": 0.0223,
+            "sw": 2.3249,
+            "sw_std": 0.6719,
+            "slope": 0.5182
+          },
+          "bl": {
+            "density": 0.0183,
+            "sw": 2.2457,
+            "sw_std": 0.4943,
+            "slope": -0.1733
+          },
+          "br": {
+            "density": 0.012,
+            "sw": 2.2788,
+            "sw_std": 0.5653,
+            "slope": 0.0157
+          }
+        }
+      }
+    },
+    "나눔손글씨_금은보화": {
+      "name": "나눔손글씨 금은보화",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B8%88%EC%9D%80%EB%B3%B4%ED%99%94.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.2553,
+        "stroke_std": 0.5891,
+        "density": 0.0182,
+        "aspect": 1.1539,
+        "centroid_x": 0.4767,
+        "centroid_y": 0.4908,
+        "endpoints": 5.5,
+        "branches": 6.7143,
+        "slope": 0.0825,
+        "regions": {
+          "tl": {
+            "density": 0.0229,
+            "sw": 2.2657,
+            "sw_std": 0.5435,
+            "slope": 0.1321
+          },
+          "tr": {
+            "density": 0.013,
+            "sw": 2.278,
+            "sw_std": 0.5161,
+            "slope": 0.2138
+          },
+          "bl": {
+            "density": 0.0213,
+            "sw": 2.2479,
+            "sw_std": 0.5338,
+            "slope": 0.0971
+          },
+          "br": {
+            "density": 0.0157,
+            "sw": 2.4646,
+            "sw_std": 0.818,
+            "slope": -0.5008
+          }
+        }
+      }
+    },
+    "나눔손글씨_기쁨밝음": {
+      "name": "나눔손글씨 기쁨밝음",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B8%B0%EC%81%A8%EB%B0%9D%EC%9D%8C.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.6309,
+        "stroke_std": 0.8963,
+        "density": 0.0217,
+        "aspect": 1.5228,
+        "centroid_x": 0.4778,
+        "centroid_y": 0.4831,
+        "endpoints": 5.5,
+        "branches": 7.5714,
+        "slope": -0.0381,
+        "regions": {
+          "tl": {
+            "density": 0.0275,
+            "sw": 2.6203,
+            "sw_std": 0.8912,
+            "slope": 0.06
+          },
+          "tr": {
+            "density": 0.0235,
+            "sw": 2.7765,
+            "sw_std": 1.0167,
+            "slope": 0.3455
+          },
+          "bl": {
+            "density": 0.0218,
+            "sw": 2.5586,
+            "sw_std": 0.7867,
+            "slope": -0.0694
+          },
+          "br": {
+            "density": 0.0137,
+            "sw": 2.6327,
+            "sw_std": 0.9214,
+            "slope": -0.0179
+          }
+        }
+      }
+    },
+    "나눔손글씨_김유이체": {
+      "name": "나눔손글씨 김유이체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%B9%80%EC%9C%A0%EC%9D%B4%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.3191,
+        "stroke_std": 0.6563,
+        "density": 0.0197,
+        "aspect": 1.5188,
+        "centroid_x": 0.4674,
+        "centroid_y": 0.4796,
+        "endpoints": 5.9286,
+        "branches": 7.5,
+        "slope": 0.0923,
+        "regions": {
+          "tl": {
+            "density": 0.0251,
+            "sw": 2.2876,
+            "sw_std": 0.5808,
+            "slope": 0.1626
+          },
+          "tr": {
+            "density": 0.0225,
+            "sw": 2.4806,
+            "sw_std": 0.8509,
+            "slope": 0.689
+          },
+          "bl": {
+            "density": 0.0196,
+            "sw": 2.2649,
+            "sw_std": 0.5261,
+            "slope": -0.1643
+          },
+          "br": {
+            "density": 0.0118,
+            "sw": 2.3803,
+            "sw_std": 0.6662,
+            "slope": -0.1461
+          }
+        }
+      }
+    },
+    "나눔손글씨_꽃내음": {
+      "name": "나눔손글씨 꽃내음",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EA%BD%83%EB%82%B4%EC%9D%8C.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.8927,
+        "stroke_std": 1.0295,
+        "density": 0.0407,
+        "aspect": 1.2011,
+        "centroid_x": 0.4823,
+        "centroid_y": 0.4851,
+        "endpoints": 6.1429,
+        "branches": 8.2857,
+        "slope": 0.1849,
+        "regions": {
+          "tl": {
+            "density": 0.0496,
+            "sw": 2.873,
+            "sw_std": 1.0351,
+            "slope": 0.0123
+          },
+          "tr": {
+            "density": 0.0355,
+            "sw": 3.0685,
+            "sw_std": 1.2133,
+            "slope": 0.3349
+          },
+          "bl": {
+            "density": 0.0369,
+            "sw": 2.8546,
+            "sw_std": 1.0027,
+            "slope": 0.1665
+          },
+          "br": {
+            "density": 0.0406,
+            "sw": 3.0241,
+            "sw_std": 1.1439,
+            "slope": -0.372
+          }
+        }
+      }
+    },
+    "나눔손글씨_끄트머리체": {
+      "name": "나눔손글씨 끄트머리체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%81%84%ED%8A%B8%EB%A8%B8%EB%A6%AC%EC%B2%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 3.8905,
+        "stroke_std": 1.7668,
+        "density": 0.0554,
+        "aspect": 1.0966,
+        "centroid_x": 0.4933,
+        "centroid_y": 0.5,
+        "endpoints": 8.0714,
+        "branches": 13.6429,
+        "slope": -0.1966,
+        "regions": {
+          "tl": {
+            "density": 0.0538,
+            "sw": 3.8126,
+            "sw_std": 1.7589,
+            "slope": -0.4498
+          },
+          "tr": {
+            "density": 0.061,
+            "sw": 3.9804,
+            "sw_std": 1.8138,
+            "slope": 0.3167
+          },
+          "bl": {
+            "density": 0.0642,
+            "sw": 3.9892,
+            "sw_std": 1.8695,
+            "slope": -0.0235
+          },
+          "br": {
+            "density": 0.0425,
+            "sw": 3.9325,
+            "sw_std": 1.7132,
+            "slope": -0.0322
+          }
+        }
+      }
+    },
+    "나눔손글씨_나는_이겨낸다": {
+      "name": "나눔손글씨 나는 이겨낸다",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%82%98%EB%8A%94%20%EC%9D%B4%EA%B2%A8%EB%82%B8%EB%8B%A4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.0937,
+        "stroke_std": 0.341,
+        "density": 0.0149,
+        "aspect": 1.5245,
+        "centroid_x": 0.4839,
+        "centroid_y": 0.486,
+        "endpoints": 5.8571,
+        "branches": 5.1429,
+        "slope": 0.09,
+        "regions": {
+          "tl": {
+            "density": 0.0175,
+            "sw": 2.0556,
+            "sw_std": 0.1873,
+            "slope": 0.3091
+          },
+          "tr": {
+            "density": 0.0145,
+            "sw": 2.2306,
+            "sw_std": 0.5422,
+            "slope": 0.408
+          },
+          "bl": {
+            "density": 0.0176,
+            "sw": 2.138,
+            "sw_std": 0.3808,
+            "slope": -0.0626
+          },
+          "br": {
+            "density": 0.0101,
+            "sw": 2.0964,
+            "sw_std": 0.2704,
+            "slope": -0.0843
+          }
+        }
+      }
+    },
+    "나눔손글씨_나무정원": {
+      "name": "나눔손글씨 나무정원",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%82%98%EB%AC%B4%EC%A0%95%EC%9B%90.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.2283,
+        "stroke_std": 0.5514,
+        "density": 0.0227,
+        "aspect": 0.8799,
+        "centroid_x": 0.4803,
+        "centroid_y": 0.5006,
+        "endpoints": 6.7857,
+        "branches": 7.8571,
+        "slope": -0.1621,
+        "regions": {
+          "tl": {
+            "density": 0.0207,
+            "sw": 2.1899,
+            "sw_std": 0.4592,
+            "slope": -0.1822
+          },
+          "tr": {
+            "density": 0.0247,
+            "sw": 2.313,
+            "sw_std": 0.682,
+            "slope": 0.2372
+          },
+          "bl": {
+            "density": 0.026,
+            "sw": 2.2152,
+            "sw_std": 0.4396,
+            "slope": -0.3905
+          },
+          "br": {
+            "density": 0.0193,
+            "sw": 2.2551,
+            "sw_std": 0.6236,
+            "slope": -0.0838
+          }
+        }
+      }
+    },
+    "나눔손글씨_나의_아내_손글씨": {
+      "name": "나눔손글씨 나의 아내 손글씨",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%82%98%EC%9D%98%20%EC%95%84%EB%82%B4%20%EC%86%90%EA%B8%80%EC%94%A8.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.4651,
+        "stroke_std": 0.7701,
+        "density": 0.0184,
+        "aspect": 1.3659,
+        "centroid_x": 0.4776,
+        "centroid_y": 0.4849,
+        "endpoints": 5.4286,
+        "branches": 6.9286,
+        "slope": 0.2184,
+        "regions": {
+          "tl": {
+            "density": 0.0237,
+            "sw": 2.4734,
+            "sw_std": 0.7851,
+            "slope": 0.1004
+          },
+          "tr": {
+            "density": 0.0185,
+            "sw": 2.6961,
+            "sw_std": 1.038,
+            "slope": 0.4659
+          },
+          "bl": {
+            "density": 0.0183,
+            "sw": 2.4453,
+            "sw_std": 0.6872,
+            "slope": -0.3386
+          },
+          "br": {
+            "density": 0.0131,
+            "sw": 2.5052,
+            "sw_std": 0.8365,
+            "slope": -0.0348
+          }
+        }
+      }
+    },
+    "나눔손글씨_노력하는_동희": {
+      "name": "나눔손글씨 노력하는 동희",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%85%B8%EB%A0%A5%ED%95%98%EB%8A%94%20%EB%8F%99%ED%9D%AC.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.1941,
+        "stroke_std": 0.4933,
+        "density": 0.0167,
+        "aspect": 1.1257,
+        "centroid_x": 0.4855,
+        "centroid_y": 0.5049,
+        "endpoints": 5.9286,
+        "branches": 5.7857,
+        "slope": -0.0318,
+        "regions": {
+          "tl": {
+            "density": 0.0159,
+            "sw": 2.1615,
+            "sw_std": 0.3983,
+            "slope": -0.0174
+          },
+          "tr": {
+            "density": 0.0112,
+            "sw": 2.049,
+            "sw_std": 0.1982,
+            "slope": 0.0867
+          },
+          "bl": {
+            "density": 0.0211,
+            "sw": 2.2306,
+            "sw_std": 0.491,
+            "slope": 0.0601
+          },
+          "br": {
+            "density": 0.0184,
+            "sw": 2.326,
+            "sw_std": 0.6573,
+            "slope": -0.4094
+          }
+        }
+      }
+    },
+    "나눔손글씨_느릿느릿체": {
+      "name": "나눔손글씨 느릿느릿체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%8A%90%EB%A6%BF%EB%8A%90%EB%A6%BF%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.7266,
+        "stroke_std": 0.9512,
+        "density": 0.0201,
+        "aspect": 1.1743,
+        "centroid_x": 0.4864,
+        "centroid_y": 0.4853,
+        "endpoints": 5.9286,
+        "branches": 5.9286,
+        "slope": 0.0652,
+        "regions": {
+          "tl": {
+            "density": 0.0234,
+            "sw": 2.7195,
+            "sw_std": 0.9617,
+            "slope": -0.0831
+          },
+          "tr": {
+            "density": 0.0208,
+            "sw": 2.7763,
+            "sw_std": 1.0268,
+            "slope": 0.3979
+          },
+          "bl": {
+            "density": 0.0184,
+            "sw": 2.7081,
+            "sw_std": 0.915,
+            "slope": 0.6863
+          },
+          "br": {
+            "density": 0.0176,
+            "sw": 2.8501,
+            "sw_std": 1.0841,
+            "slope": -0.3926
+          }
+        }
+      }
+    },
+    "나눔손글씨_다시_시작해": {
+      "name": "나눔손글씨 다시 시작해",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%8B%A4%EC%8B%9C%20%EC%8B%9C%EC%9E%91%ED%95%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.9821,
+        "stroke_std": 1.0724,
+        "density": 0.0284,
+        "aspect": 1.3316,
+        "centroid_x": 0.4797,
+        "centroid_y": 0.4919,
+        "endpoints": 6.3571,
+        "branches": 7.6429,
+        "slope": 0.1102,
+        "regions": {
+          "tl": {
+            "density": 0.0328,
+            "sw": 2.9498,
+            "sw_std": 1.0561,
+            "slope": 0.0235
+          },
+          "tr": {
+            "density": 0.0234,
+            "sw": 2.9552,
+            "sw_std": 1.0566,
+            "slope": 0.4984
+          },
+          "bl": {
+            "density": 0.0319,
+            "sw": 2.9931,
+            "sw_std": 1.0632,
+            "slope": -0.1259
+          },
+          "br": {
+            "density": 0.0254,
+            "sw": 3.2453,
+            "sw_std": 1.3898,
+            "slope": -0.5769
+          }
+        }
+      }
+    },
+    "나눔손글씨_다진체": {
+      "name": "나눔손글씨 다진체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%8B%A4%EC%A7%84%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.2087,
+        "stroke_std": 0.5035,
+        "density": 0.0141,
+        "aspect": 1.219,
+        "centroid_x": 0.4853,
+        "centroid_y": 0.4858,
+        "endpoints": 6.6429,
+        "branches": 4.6429,
+        "slope": 0.1706,
+        "regions": {
+          "tl": {
+            "density": 0.0173,
+            "sw": 2.1833,
+            "sw_std": 0.4365,
+            "slope": 0.184
+          },
+          "tr": {
+            "density": 0.0117,
+            "sw": 2.3236,
+            "sw_std": 0.5796,
+            "slope": 0.3011
+          },
+          "bl": {
+            "density": 0.0156,
+            "sw": 2.2204,
+            "sw_std": 0.4678,
+            "slope": -0.3687
+          },
+          "br": {
+            "density": 0.0117,
+            "sw": 2.2253,
+            "sw_std": 0.4821,
+            "slope": -0.3178
+          }
+        }
+      }
+    },
+    "나눔손글씨_다채사랑": {
+      "name": "나눔손글씨 다채사랑",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%8B%A4%EC%B1%84%EC%82%AC%EB%9E%91.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.2849,
+        "stroke_std": 0.6188,
+        "density": 0.0193,
+        "aspect": 1.1814,
+        "centroid_x": 0.4807,
+        "centroid_y": 0.4903,
+        "endpoints": 5.8571,
+        "branches": 5.8571,
+        "slope": 0.0307,
+        "regions": {
+          "tl": {
+            "density": 0.0212,
+            "sw": 2.2591,
+            "sw_std": 0.5773,
+            "slope": 0.2556
+          },
+          "tr": {
+            "density": 0.0207,
+            "sw": 2.5631,
+            "sw_std": 0.9492,
+            "slope": 0.3761
+          },
+          "bl": {
+            "density": 0.0223,
+            "sw": 2.3241,
+            "sw_std": 0.5948,
+            "slope": 0.0965
+          },
+          "br": {
+            "density": 0.0133,
+            "sw": 2.1871,
+            "sw_std": 0.3796,
+            "slope": -0.1103
+          }
+        }
+      }
+    },
+    "나눔손글씨_다행체": {
+      "name": "나눔손글씨 다행체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%8B%A4%ED%96%89%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 3.1888,
+        "stroke_std": 1.2722,
+        "density": 0.0374,
+        "aspect": 1.54,
+        "centroid_x": 0.4794,
+        "centroid_y": 0.4924,
+        "endpoints": 5.5714,
+        "branches": 8.7143,
+        "slope": 0.0342,
+        "regions": {
+          "tl": {
+            "density": 0.0427,
+            "sw": 3.0301,
+            "sw_std": 1.141,
+            "slope": -0.2074
+          },
+          "tr": {
+            "density": 0.038,
+            "sw": 3.3631,
+            "sw_std": 1.4402,
+            "slope": 0.4249
+          },
+          "bl": {
+            "density": 0.0392,
+            "sw": 3.1126,
+            "sw_std": 1.1608,
+            "slope": -0.1221
+          },
+          "br": {
+            "density": 0.0298,
+            "sw": 3.4458,
+            "sw_std": 1.4438,
+            "slope": 0.0701
+          }
+        }
+      }
+    },
+    "나눔손글씨_달의궤도": {
+      "name": "나눔손글씨 달의궤도",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%8B%AC%EC%9D%98%EA%B6%A4%EB%8F%84.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 3.0636,
+        "stroke_std": 1.1577,
+        "density": 0.0285,
+        "aspect": 0.9908,
+        "centroid_x": 0.4921,
+        "centroid_y": 0.4844,
+        "endpoints": 6.3571,
+        "branches": 5.7857,
+        "slope": 0.1689,
+        "regions": {
+          "tl": {
+            "density": 0.0276,
+            "sw": 2.9959,
+            "sw_std": 1.1559,
+            "slope": -0.3982
+          },
+          "tr": {
+            "density": 0.0393,
+            "sw": 3.5591,
+            "sw_std": 1.6655,
+            "slope": 0.6159
+          },
+          "bl": {
+            "density": 0.0228,
+            "sw": 3.0384,
+            "sw_std": 1.1377,
+            "slope": 0.0778
+          },
+          "br": {
+            "density": 0.0245,
+            "sw": 2.9663,
+            "sw_std": 1.0649,
+            "slope": -0.0636
+          }
+        }
+      }
+    },
+    "나눔손글씨_대광유리": {
+      "name": "나눔손글씨 대광유리",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%8C%80%EA%B4%91%EC%9C%A0%EB%A6%AC.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.2879,
+        "stroke_std": 0.5971,
+        "density": 0.0187,
+        "aspect": 1.0694,
+        "centroid_x": 0.4788,
+        "centroid_y": 0.4789,
+        "endpoints": 6.3571,
+        "branches": 6.9286,
+        "slope": 0.0669,
+        "regions": {
+          "tl": {
+            "density": 0.0212,
+            "sw": 2.3219,
+            "sw_std": 0.603,
+            "slope": 0.0326
+          },
+          "tr": {
+            "density": 0.0223,
+            "sw": 2.3108,
+            "sw_std": 0.6348,
+            "slope": 0.431
+          },
+          "bl": {
+            "density": 0.0161,
+            "sw": 2.3872,
+            "sw_std": 0.6516,
+            "slope": -1.2332
+          },
+          "br": {
+            "density": 0.0151,
+            "sw": 2.257,
+            "sw_std": 0.5797,
+            "slope": -0.1502
+          }
+        }
+      }
+    },
+    "나눔손글씨_대한민국_열사체": {
+      "name": "나눔손글씨 대한민국 열사체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20%EC%97%B4%EC%82%AC%EC%B2%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 3.2398,
+        "stroke_std": 1.5262,
+        "density": 0.0295,
+        "aspect": 1.6577,
+        "centroid_x": 0.4703,
+        "centroid_y": 0.49,
+        "endpoints": 6.3571,
+        "branches": 5.5,
+        "slope": 0.0998,
+        "regions": {
+          "tl": {
+            "density": 0.0383,
+            "sw": 3.3957,
+            "sw_std": 1.544,
+            "slope": 0.1444
+          },
+          "tr": {
+            "density": 0.0206,
+            "sw": 2.8706,
+            "sw_std": 1.2328,
+            "slope": 0.5756
+          },
+          "bl": {
+            "density": 0.0267,
+            "sw": 2.9227,
+            "sw_std": 1.1583,
+            "slope": 0.2513
+          },
+          "br": {
+            "density": 0.0323,
+            "sw": 3.7142,
+            "sw_std": 2.0054,
+            "slope": -0.74
+          }
+        }
+      }
+    },
+    "나눔손글씨_둥근인연": {
+      "name": "나눔손글씨 둥근인연",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%91%A5%EA%B7%BC%EC%9D%B8%EC%97%B0.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.1651,
+        "stroke_std": 0.4543,
+        "density": 0.016,
+        "aspect": 1.2563,
+        "centroid_x": 0.4772,
+        "centroid_y": 0.494,
+        "endpoints": 5.5714,
+        "branches": 5.5714,
+        "slope": 0.3922,
+        "regions": {
+          "tl": {
+            "density": 0.0223,
+            "sw": 2.1957,
+            "sw_std": 0.4854,
+            "slope": 0.0257
+          },
+          "tr": {
+            "density": 0.007,
+            "sw": 2.0951,
+            "sw_std": 0.2696,
+            "slope": 0.187
+          },
+          "bl": {
+            "density": 0.0174,
+            "sw": 2.215,
+            "sw_std": 0.457,
+            "slope": 0.3382
+          },
+          "br": {
+            "density": 0.0174,
+            "sw": 2.3017,
+            "sw_std": 0.6321,
+            "slope": -0.4778
+          }
+        }
+      }
+    },
+    "나눔손글씨_따뜻한_작별": {
+      "name": "나눔손글씨 따뜻한 작별",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EC%9E%91%EB%B3%84.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.4597,
+        "stroke_std": 0.7755,
+        "density": 0.0229,
+        "aspect": 1.2414,
+        "centroid_x": 0.483,
+        "centroid_y": 0.4943,
+        "endpoints": 5.5,
+        "branches": 6.3571,
+        "slope": 0.0026,
+        "regions": {
+          "tl": {
+            "density": 0.0264,
+            "sw": 2.484,
+            "sw_std": 0.7939,
+            "slope": 0.1495
+          },
+          "tr": {
+            "density": 0.0227,
+            "sw": 2.5618,
+            "sw_std": 0.8919,
+            "slope": 0.3704
+          },
+          "bl": {
+            "density": 0.027,
+            "sw": 2.4211,
+            "sw_std": 0.694,
+            "slope": 0.1472
+          },
+          "br": {
+            "density": 0.0154,
+            "sw": 2.4588,
+            "sw_std": 0.7991,
+            "slope": 0.0149
+          }
+        }
+      }
+    },
+    "나눔손글씨_따악단단": {
+      "name": "나눔손글씨 따악단단",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%94%B0%EC%95%85%EB%8B%A8%EB%8B%A8.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.1665,
+        "stroke_std": 0.4527,
+        "density": 0.0147,
+        "aspect": 1.5005,
+        "centroid_x": 0.4682,
+        "centroid_y": 0.4738,
+        "endpoints": 5.6429,
+        "branches": 5.7143,
+        "slope": -0.0205,
+        "regions": {
+          "tl": {
+            "density": 0.0193,
+            "sw": 2.1423,
+            "sw_std": 0.385,
+            "slope": -0.135
+          },
+          "tr": {
+            "density": 0.018,
+            "sw": 2.2494,
+            "sw_std": 0.5741,
+            "slope": 0.5231
+          },
+          "bl": {
+            "density": 0.0137,
+            "sw": 2.1171,
+            "sw_std": 0.3233,
+            "slope": -0.357
+          },
+          "br": {
+            "density": 0.0077,
+            "sw": 2.1775,
+            "sw_std": 0.3541,
+            "slope": 0.0276
+          }
+        }
+      }
+    },
+    "나눔손글씨_딸에게_엄마가": {
+      "name": "나눔손글씨 딸에게 엄마가",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%94%B8%EC%97%90%EA%B2%8C%20%EC%97%84%EB%A7%88%EA%B0%80.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.3166,
+        "stroke_std": 0.6219,
+        "density": 0.0202,
+        "aspect": 1.1364,
+        "centroid_x": 0.4873,
+        "centroid_y": 0.5077,
+        "endpoints": 6.2143,
+        "branches": 6.9286,
+        "slope": -0.2197,
+        "regions": {
+          "tl": {
+            "density": 0.0175,
+            "sw": 2.2493,
+            "sw_std": 0.4843,
+            "slope": -0.6005
+          },
+          "tr": {
+            "density": 0.019,
+            "sw": 2.2495,
+            "sw_std": 0.5528,
+            "slope": 0.4647
+          },
+          "bl": {
+            "density": 0.0242,
+            "sw": 2.2809,
+            "sw_std": 0.5372,
+            "slope": -0.0348
+          },
+          "br": {
+            "density": 0.0201,
+            "sw": 2.5704,
+            "sw_std": 0.8793,
+            "slope": -0.1804
+          }
+        }
+      }
+    },
+    "나눔손글씨_또박또박": {
+      "name": "나눔손글씨 또박또박",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%98%90%EB%B0%95%EB%98%90%EB%B0%95.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.3298,
+        "stroke_std": 0.6609,
+        "density": 0.0161,
+        "aspect": 1.2355,
+        "centroid_x": 0.4861,
+        "centroid_y": 0.4844,
+        "endpoints": 5.5714,
+        "branches": 6.6429,
+        "slope": 0.0238,
+        "regions": {
+          "tl": {
+            "density": 0.0197,
+            "sw": 2.3378,
+            "sw_std": 0.6616,
+            "slope": 0.0505
+          },
+          "tr": {
+            "density": 0.0149,
+            "sw": 2.358,
+            "sw_std": 0.7041,
+            "slope": 0.3336
+          },
+          "bl": {
+            "density": 0.0178,
+            "sw": 2.3341,
+            "sw_std": 0.5934,
+            "slope": 0.2705
+          },
+          "br": {
+            "density": 0.0122,
+            "sw": 2.3849,
+            "sw_std": 0.7177,
+            "slope": -0.4821
+          }
+        }
+      }
+    },
+    "나눔손글씨_마고체": {
+      "name": "나눔손글씨 마고체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%A7%88%EA%B3%A0%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.1023,
+        "stroke_std": 0.3369,
+        "density": 0.0118,
+        "aspect": 1.4146,
+        "centroid_x": 0.4729,
+        "centroid_y": 0.4795,
+        "endpoints": 6.5,
+        "branches": 5.4286,
+        "slope": 0.0873,
+        "regions": {
+          "tl": {
+            "density": 0.0144,
+            "sw": 2.1137,
+            "sw_std": 0.3024,
+            "slope": 0.0989
+          },
+          "tr": {
+            "density": 0.0138,
+            "sw": 2.1529,
+            "sw_std": 0.3937,
+            "slope": 0.3383
+          },
+          "bl": {
+            "density": 0.0109,
+            "sw": 2.0928,
+            "sw_std": 0.2785,
+            "slope": -0.1149
+          },
+          "br": {
+            "density": 0.008,
+            "sw": 2.0313,
+            "sw_std": 0.1172,
+            "slope": -0.1513
+          }
+        }
+      }
+    },
+    "나눔손글씨_맛있는체": {
+      "name": "나눔손글씨 맛있는체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%A7%9B%EC%9E%88%EB%8A%94%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.7067,
+        "stroke_std": 0.9242,
+        "density": 0.0217,
+        "aspect": 1.5513,
+        "centroid_x": 0.4805,
+        "centroid_y": 0.4924,
+        "endpoints": 5.5,
+        "branches": 6.3571,
+        "slope": -0.039,
+        "regions": {
+          "tl": {
+            "density": 0.0263,
+            "sw": 2.6897,
+            "sw_std": 0.9302,
+            "slope": 0.165
+          },
+          "tr": {
+            "density": 0.0215,
+            "sw": 2.8435,
+            "sw_std": 1.0157,
+            "slope": 0.5442
+          },
+          "bl": {
+            "density": 0.0253,
+            "sw": 2.6799,
+            "sw_std": 0.8926,
+            "slope": 0.11
+          },
+          "br": {
+            "density": 0.0138,
+            "sw": 2.7379,
+            "sw_std": 0.9687,
+            "slope": -0.2363
+          }
+        }
+      }
+    },
+    "나눔손글씨_몽돌": {
+      "name": "나눔손글씨 몽돌",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%AA%BD%EB%8F%8C.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.2723,
+        "stroke_std": 0.6149,
+        "density": 0.0185,
+        "aspect": 1.4245,
+        "centroid_x": 0.4733,
+        "centroid_y": 0.4955,
+        "endpoints": 5.9286,
+        "branches": 7.9286,
+        "slope": -0.0406,
+        "regions": {
+          "tl": {
+            "density": 0.0211,
+            "sw": 2.2591,
+            "sw_std": 0.5745,
+            "slope": 0.0494
+          },
+          "tr": {
+            "density": 0.0149,
+            "sw": 2.3271,
+            "sw_std": 0.68,
+            "slope": 0.5306
+          },
+          "bl": {
+            "density": 0.0219,
+            "sw": 2.2102,
+            "sw_std": 0.4616,
+            "slope": -0.2088
+          },
+          "br": {
+            "density": 0.0159,
+            "sw": 2.5354,
+            "sw_std": 0.9333,
+            "slope": -0.434
+          }
+        }
+      }
+    },
+    "나눔손글씨_무궁화": {
+      "name": "나눔손글씨 무궁화",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%AC%B4%EA%B6%81%ED%99%94.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.645,
+        "stroke_std": 0.8995,
+        "density": 0.0202,
+        "aspect": 1.4716,
+        "centroid_x": 0.4774,
+        "centroid_y": 0.4854,
+        "endpoints": 5.5714,
+        "branches": 6.8571,
+        "slope": 0.3326,
+        "regions": {
+          "tl": {
+            "density": 0.0272,
+            "sw": 2.6364,
+            "sw_std": 0.8944,
+            "slope": 0.0842
+          },
+          "tr": {
+            "density": 0.016,
+            "sw": 2.6444,
+            "sw_std": 0.9189,
+            "slope": 0.4753
+          },
+          "bl": {
+            "density": 0.0186,
+            "sw": 2.5401,
+            "sw_std": 0.7728,
+            "slope": 0.3681
+          },
+          "br": {
+            "density": 0.019,
+            "sw": 2.8514,
+            "sw_std": 1.0516,
+            "slope": -0.7002
+          }
+        }
+      }
+    },
+    "나눔손글씨_무진장체": {
+      "name": "나눔손글씨 무진장체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%AC%B4%EC%A7%84%EC%9E%A5%EC%B2%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.1186,
+        "stroke_std": 0.3837,
+        "density": 0.0151,
+        "aspect": 1.2345,
+        "centroid_x": 0.4793,
+        "centroid_y": 0.4955,
+        "endpoints": 5.9286,
+        "branches": 5.0714,
+        "slope": 0.0466,
+        "regions": {
+          "tl": {
+            "density": 0.0149,
+            "sw": 2.0967,
+            "sw_std": 0.3015,
+            "slope": -0.2587
+          },
+          "tr": {
+            "density": 0.0155,
+            "sw": 2.1333,
+            "sw_std": 0.4394,
+            "slope": 0.4704
+          },
+          "bl": {
+            "density": 0.0151,
+            "sw": 2.1373,
+            "sw_std": 0.3612,
+            "slope": 0.0674
+          },
+          "br": {
+            "density": 0.0148,
+            "sw": 2.2227,
+            "sw_std": 0.5454,
+            "slope": -0.21
+          }
+        }
+      }
+    },
+    "나눔손글씨_미니_손글씨": {
+      "name": "나눔손글씨 미니 손글씨",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%AF%B8%EB%8B%88%20%EC%86%90%EA%B8%80%EC%94%A8.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.7917,
+        "stroke_std": 0.9962,
+        "density": 0.0236,
+        "aspect": 1.2007,
+        "centroid_x": 0.4839,
+        "centroid_y": 0.4894,
+        "endpoints": 5.5714,
+        "branches": 5.6429,
+        "slope": -0.0287,
+        "regions": {
+          "tl": {
+            "density": 0.0269,
+            "sw": 2.8091,
+            "sw_std": 1.0119,
+            "slope": 0.1869
+          },
+          "tr": {
+            "density": 0.0242,
+            "sw": 3.04,
+            "sw_std": 1.2388,
+            "slope": 0.5014
+          },
+          "bl": {
+            "density": 0.0265,
+            "sw": 2.763,
+            "sw_std": 0.9802,
+            "slope": 0.0294
+          },
+          "br": {
+            "density": 0.0168,
+            "sw": 2.7926,
+            "sw_std": 1.0466,
+            "slope": -0.3336
+          }
+        }
+      }
+    },
+    "나눔손글씨_미래나무": {
+      "name": "나눔손글씨 미래나무",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%AF%B8%EB%9E%98%EB%82%98%EB%AC%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.9953,
+        "stroke_std": 1.1215,
+        "density": 0.0327,
+        "aspect": 0.8886,
+        "centroid_x": 0.4868,
+        "centroid_y": 0.4821,
+        "endpoints": 5.5,
+        "branches": 7.7143,
+        "slope": 0.0537,
+        "regions": {
+          "tl": {
+            "density": 0.0361,
+            "sw": 3.0748,
+            "sw_std": 1.1861,
+            "slope": 0.2187
+          },
+          "tr": {
+            "density": 0.0396,
+            "sw": 3.1079,
+            "sw_std": 1.2427,
+            "slope": 0.3022
+          },
+          "bl": {
+            "density": 0.0297,
+            "sw": 3.0528,
+            "sw_std": 1.1182,
+            "slope": -0.6751
+          },
+          "br": {
+            "density": 0.0254,
+            "sw": 2.7744,
+            "sw_std": 0.9895,
+            "slope": 0.0937
+          }
+        }
+      }
+    },
+    "나눔손글씨_바른정신": {
+      "name": "나눔손글씨 바른정신",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B0%94%EB%A5%B8%EC%A0%95%EC%8B%A0.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.3722,
+        "stroke_std": 0.6787,
+        "density": 0.0227,
+        "aspect": 1.2395,
+        "centroid_x": 0.4867,
+        "centroid_y": 0.4839,
+        "endpoints": 7.1429,
+        "branches": 9.0714,
+        "slope": -0.2315,
+        "regions": {
+          "tl": {
+            "density": 0.0234,
+            "sw": 2.4348,
+            "sw_std": 0.712,
+            "slope": -0.3707
+          },
+          "tr": {
+            "density": 0.0291,
+            "sw": 2.4117,
+            "sw_std": 0.728,
+            "slope": 0.6315
+          },
+          "bl": {
+            "density": 0.025,
+            "sw": 2.4667,
+            "sw_std": 0.7199,
+            "slope": -0.6311
+          },
+          "br": {
+            "density": 0.0134,
+            "sw": 2.0848,
+            "sw_std": 0.2606,
+            "slope": 0.1415
+          }
+        }
+      }
+    },
+    "나눔손글씨_바른히피": {
+      "name": "나눔손글씨 바른히피",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B0%94%EB%A5%B8%ED%9E%88%ED%94%BC.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.8361,
+        "stroke_std": 0.9991,
+        "density": 0.031,
+        "aspect": 1.1809,
+        "centroid_x": 0.4722,
+        "centroid_y": 0.494,
+        "endpoints": 5.7143,
+        "branches": 6.5,
+        "slope": 0.0014,
+        "regions": {
+          "tl": {
+            "density": 0.0386,
+            "sw": 2.8222,
+            "sw_std": 0.9804,
+            "slope": 0.0022
+          },
+          "tr": {
+            "density": 0.0236,
+            "sw": 2.8175,
+            "sw_std": 1.0165,
+            "slope": 0.2733
+          },
+          "bl": {
+            "density": 0.0382,
+            "sw": 2.8637,
+            "sw_std": 0.9914,
+            "slope": 0.0989
+          },
+          "br": {
+            "density": 0.0237,
+            "sw": 2.944,
+            "sw_std": 1.1803,
+            "slope": -0.3996
+          }
+        }
+      }
+    },
+    "나눔손글씨_반짝반짝_별": {
+      "name": "나눔손글씨 반짝반짝 별",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B0%98%EC%A7%9D%EB%B0%98%EC%A7%9D%20%EB%B3%84.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.2212,
+        "stroke_std": 0.557,
+        "density": 0.0152,
+        "aspect": 1.678,
+        "centroid_x": 0.465,
+        "centroid_y": 0.4719,
+        "endpoints": 5.7143,
+        "branches": 5.4286,
+        "slope": 0.1446,
+        "regions": {
+          "tl": {
+            "density": 0.0224,
+            "sw": 2.258,
+            "sw_std": 0.5888,
+            "slope": 0.1092
+          },
+          "tr": {
+            "density": 0.0159,
+            "sw": 2.2369,
+            "sw_std": 0.5641,
+            "slope": 0.5435
+          },
+          "bl": {
+            "density": 0.015,
+            "sw": 2.1824,
+            "sw_std": 0.4233,
+            "slope": 0.3534
+          },
+          "br": {
+            "density": 0.0074,
+            "sw": 2.1655,
+            "sw_std": 0.3453,
+            "slope": -0.0476
+          }
+        }
+      }
+    },
+    "나눔손글씨_배은혜체": {
+      "name": "나눔손글씨 배은혜체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B0%B0%EC%9D%80%ED%98%9C%EC%B2%B4.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.5994,
+        "stroke_std": 0.8678,
+        "density": 0.0207,
+        "aspect": 1.175,
+        "centroid_x": 0.4811,
+        "centroid_y": 0.4849,
+        "endpoints": 5.8571,
+        "branches": 7.5,
+        "slope": 0.0971,
+        "regions": {
+          "tl": {
+            "density": 0.0268,
+            "sw": 2.6032,
+            "sw_std": 0.8809,
+            "slope": -0.0856
+          },
+          "tr": {
+            "density": 0.0191,
+            "sw": 2.7772,
+            "sw_std": 1.0473,
+            "slope": 0.3309
+          },
+          "bl": {
+            "density": 0.0218,
+            "sw": 2.5952,
+            "sw_std": 0.8254,
+            "slope": 0.17
+          },
+          "br": {
+            "density": 0.0151,
+            "sw": 2.6287,
+            "sw_std": 0.912,
+            "slope": -0.2679
+          }
+        }
+      }
+    },
+    "나눔손글씨_백의의_천사": {
+      "name": "나눔손글씨 백의의 천사",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B0%B1%EC%9D%98%EC%9D%98%20%EC%B2%9C%EC%82%AC.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.1919,
+        "stroke_std": 0.5146,
+        "density": 0.0175,
+        "aspect": 1.3402,
+        "centroid_x": 0.4814,
+        "centroid_y": 0.4931,
+        "endpoints": 5.4286,
+        "branches": 5.8571,
+        "slope": 0.0971,
+        "regions": {
+          "tl": {
+            "density": 0.0211,
+            "sw": 2.1699,
+            "sw_std": 0.447,
+            "slope": -0.0561
+          },
+          "tr": {
+            "density": 0.0156,
+            "sw": 2.4031,
+            "sw_std": 0.7307,
+            "slope": 0.3644
+          },
+          "bl": {
+            "density": 0.0206,
+            "sw": 2.1849,
+            "sw_std": 0.4525,
+            "slope": 0.3425
+          },
+          "br": {
+            "density": 0.0128,
+            "sw": 2.2063,
+            "sw_std": 0.478,
+            "slope": -0.1787
+          }
+        }
+      }
+    },
+    "나눔손글씨_버드나무": {
+      "name": "나눔손글씨 버드나무",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B2%84%EB%93%9C%EB%82%98%EB%AC%B4.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.4119,
+        "stroke_std": 0.7084,
+        "density": 0.0217,
+        "aspect": 0.9609,
+        "centroid_x": 0.4809,
+        "centroid_y": 0.491,
+        "endpoints": 6.0714,
+        "branches": 6.5714,
+        "slope": -0.0411,
+        "regions": {
+          "tl": {
+            "density": 0.0214,
+            "sw": 2.4446,
+            "sw_std": 0.7352,
+            "slope": -0.5603
+          },
+          "tr": {
+            "density": 0.0263,
+            "sw": 2.5098,
+            "sw_std": 0.8315,
+            "slope": 0.5767
+          },
+          "bl": {
+            "density": 0.0198,
+            "sw": 2.4379,
+            "sw_std": 0.6973,
+            "slope": -0.0355
+          },
+          "br": {
+            "density": 0.0191,
+            "sw": 2.3854,
+            "sw_std": 0.6795,
+            "slope": -0.3384
+          }
+        }
+      }
+    },
+    "나눔손글씨_범솜체": {
+      "name": "나눔손글씨 범솜체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B2%94%EC%86%9C%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.3316,
+        "stroke_std": 0.6649,
+        "density": 0.0224,
+        "aspect": 1.1398,
+        "centroid_x": 0.4773,
+        "centroid_y": 0.4901,
+        "endpoints": 6.3571,
+        "branches": 7.2857,
+        "slope": 0.1586,
+        "regions": {
+          "tl": {
+            "density": 0.027,
+            "sw": 2.3388,
+            "sw_std": 0.6695,
+            "slope": -0.0059
+          },
+          "tr": {
+            "density": 0.0151,
+            "sw": 2.3383,
+            "sw_std": 0.6691,
+            "slope": 0.0982
+          },
+          "bl": {
+            "density": 0.0251,
+            "sw": 2.3818,
+            "sw_std": 0.6693,
+            "slope": 0.161
+          },
+          "br": {
+            "density": 0.0224,
+            "sw": 2.3387,
+            "sw_std": 0.6977,
+            "slope": -0.3598
+          }
+        }
+      }
+    },
+    "나눔손글씨_부장님_눈치체": {
+      "name": "나눔손글씨 부장님 눈치체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B6%80%EC%9E%A5%EB%8B%98%20%EB%88%88%EC%B9%98%EC%B2%B4.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.8201,
+        "stroke_std": 0.9792,
+        "density": 0.0252,
+        "aspect": 1.1537,
+        "centroid_x": 0.4881,
+        "centroid_y": 0.4891,
+        "endpoints": 5.4286,
+        "branches": 6.0714,
+        "slope": -0.0177,
+        "regions": {
+          "tl": {
+            "density": 0.0284,
+            "sw": 2.8579,
+            "sw_std": 1.0289,
+            "slope": -0.0968
+          },
+          "tr": {
+            "density": 0.0242,
+            "sw": 2.9476,
+            "sw_std": 1.0694,
+            "slope": 0.2966
+          },
+          "bl": {
+            "density": 0.0261,
+            "sw": 2.7689,
+            "sw_std": 0.9324,
+            "slope": -0.1597
+          },
+          "br": {
+            "density": 0.022,
+            "sw": 2.8848,
+            "sw_std": 1.0675,
+            "slope": -0.3013
+          }
+        }
+      }
+    },
+    "나눔손글씨_북극성": {
+      "name": "나눔손글씨 북극성",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B6%81%EA%B7%B9%EC%84%B1.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.218,
+        "stroke_std": 0.5495,
+        "density": 0.0176,
+        "aspect": 1.0556,
+        "centroid_x": 0.4845,
+        "centroid_y": 0.4915,
+        "endpoints": 6.5,
+        "branches": 6.2857,
+        "slope": -0.1026,
+        "regions": {
+          "tl": {
+            "density": 0.0177,
+            "sw": 2.1744,
+            "sw_std": 0.4285,
+            "slope": -0.1902
+          },
+          "tr": {
+            "density": 0.0203,
+            "sw": 2.3829,
+            "sw_std": 0.7243,
+            "slope": 0.393
+          },
+          "bl": {
+            "density": 0.0189,
+            "sw": 2.179,
+            "sw_std": 0.4055,
+            "slope": -0.1515
+          },
+          "br": {
+            "density": 0.0135,
+            "sw": 2.2419,
+            "sw_std": 0.5575,
+            "slope": -0.0341
+          }
+        }
+      }
+    },
+    "나눔손글씨_비상체": {
+      "name": "나눔손글씨 비상체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B9%84%EC%83%81%EC%B2%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.8185,
+        "stroke_std": 1.0047,
+        "density": 0.022,
+        "aspect": 1.2582,
+        "centroid_x": 0.485,
+        "centroid_y": 0.4779,
+        "endpoints": 5.5714,
+        "branches": 6.6429,
+        "slope": 0.1642,
+        "regions": {
+          "tl": {
+            "density": 0.0299,
+            "sw": 2.8312,
+            "sw_std": 1.0328,
+            "slope": 0.23
+          },
+          "tr": {
+            "density": 0.0222,
+            "sw": 3.0156,
+            "sw_std": 1.2334,
+            "slope": 0.342
+          },
+          "bl": {
+            "density": 0.0212,
+            "sw": 2.7912,
+            "sw_std": 0.9613,
+            "slope": -0.2801
+          },
+          "br": {
+            "density": 0.0148,
+            "sw": 2.7873,
+            "sw_std": 0.9966,
+            "slope": -0.1542
+          }
+        }
+      }
+    },
+    "나눔손글씨_빵구니맘_손글씨": {
+      "name": "나눔손글씨 빵구니맘 손글씨",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B9%B5%EA%B5%AC%EB%8B%88%EB%A7%98%20%EC%86%90%EA%B8%80%EC%94%A8.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.1351,
+        "stroke_std": 0.4157,
+        "density": 0.0153,
+        "aspect": 1.5916,
+        "centroid_x": 0.4742,
+        "centroid_y": 0.4802,
+        "endpoints": 6.0,
+        "branches": 5.7143,
+        "slope": 0.1959,
+        "regions": {
+          "tl": {
+            "density": 0.0201,
+            "sw": 2.1122,
+            "sw_std": 0.3346,
+            "slope": 0.2863
+          },
+          "tr": {
+            "density": 0.0159,
+            "sw": 2.2185,
+            "sw_std": 0.5346,
+            "slope": 0.4957
+          },
+          "bl": {
+            "density": 0.0164,
+            "sw": 2.1297,
+            "sw_std": 0.3246,
+            "slope": 0.4038
+          },
+          "br": {
+            "density": 0.0089,
+            "sw": 2.1274,
+            "sw_std": 0.3653,
+            "slope": -0.0543
+          }
+        }
+      }
+    },
+    "나눔손글씨_사랑해_아들": {
+      "name": "나눔손글씨 사랑해 아들",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%82%AC%EB%9E%91%ED%95%B4%20%EC%95%84%EB%93%A4.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.2105,
+        "stroke_std": 0.5346,
+        "density": 0.0186,
+        "aspect": 0.9502,
+        "centroid_x": 0.4884,
+        "centroid_y": 0.4893,
+        "endpoints": 5.7857,
+        "branches": 7.2857,
+        "slope": 0.0653,
+        "regions": {
+          "tl": {
+            "density": 0.02,
+            "sw": 2.1606,
+            "sw_std": 0.3956,
+            "slope": -0.1579
+          },
+          "tr": {
+            "density": 0.0152,
+            "sw": 2.2229,
+            "sw_std": 0.5755,
+            "slope": -0.0409
+          },
+          "bl": {
+            "density": 0.0163,
+            "sw": 2.1727,
+            "sw_std": 0.4313,
+            "slope": 0.0043
+          },
+          "br": {
+            "density": 0.0228,
+            "sw": 2.3565,
+            "sw_std": 0.7193,
+            "slope": -0.4297
+          }
+        }
+      }
+    },
+    "나눔손글씨_상해찬미체": {
+      "name": "나눔손글씨 상해찬미체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%83%81%ED%95%B4%EC%B0%AC%EB%AF%B8%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 3.4872,
+        "stroke_std": 1.5389,
+        "density": 0.0286,
+        "aspect": 1.3167,
+        "centroid_x": 0.4917,
+        "centroid_y": 0.5005,
+        "endpoints": 6.2143,
+        "branches": 7.0,
+        "slope": -0.0561,
+        "regions": {
+          "tl": {
+            "density": 0.0237,
+            "sw": 3.108,
+            "sw_std": 1.2581,
+            "slope": 0.1002
+          },
+          "tr": {
+            "density": 0.0298,
+            "sw": 3.7916,
+            "sw_std": 1.6757,
+            "slope": 0.4305
+          },
+          "bl": {
+            "density": 0.0306,
+            "sw": 3.2055,
+            "sw_std": 1.274,
+            "slope": 0.0869
+          },
+          "br": {
+            "density": 0.0305,
+            "sw": 3.836,
+            "sw_std": 1.7155,
+            "slope": -0.6153
+          }
+        }
+      }
+    },
+    "나눔손글씨_성실체": {
+      "name": "나눔손글씨 성실체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%84%B1%EC%8B%A4%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 3.2275,
+        "stroke_std": 1.2586,
+        "density": 0.0367,
+        "aspect": 0.8476,
+        "centroid_x": 0.4941,
+        "centroid_y": 0.4914,
+        "endpoints": 5.7143,
+        "branches": 7.5,
+        "slope": -0.0519,
+        "regions": {
+          "tl": {
+            "density": 0.0314,
+            "sw": 3.2008,
+            "sw_std": 1.2462,
+            "slope": -0.0826
+          },
+          "tr": {
+            "density": 0.0471,
+            "sw": 3.4649,
+            "sw_std": 1.5012,
+            "slope": 0.3585
+          },
+          "bl": {
+            "density": 0.0365,
+            "sw": 3.3155,
+            "sw_std": 1.317,
+            "slope": -0.0801
+          },
+          "br": {
+            "density": 0.0318,
+            "sw": 3.0956,
+            "sw_std": 1.158,
+            "slope": -0.1066
+          }
+        }
+      }
+    },
+    "나눔손글씨_세계적인_한글": {
+      "name": "나눔손글씨 세계적인 한글",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8%20%ED%95%9C%EA%B8%80.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.5901,
+        "stroke_std": 0.8699,
+        "density": 0.0205,
+        "aspect": 1.254,
+        "centroid_x": 0.4848,
+        "centroid_y": 0.4918,
+        "endpoints": 5.7857,
+        "branches": 7.8571,
+        "slope": -0.0093,
+        "regions": {
+          "tl": {
+            "density": 0.0232,
+            "sw": 2.661,
+            "sw_std": 0.9434,
+            "slope": 0.0607
+          },
+          "tr": {
+            "density": 0.0205,
+            "sw": 2.8747,
+            "sw_std": 1.1493,
+            "slope": 0.4283
+          },
+          "bl": {
+            "density": 0.0213,
+            "sw": 2.5048,
+            "sw_std": 0.7697,
+            "slope": 0.2493
+          },
+          "br": {
+            "density": 0.0169,
+            "sw": 2.5841,
+            "sw_std": 0.8845,
+            "slope": -0.5745
+          }
+        }
+      }
+    },
+    "나눔손글씨_세아체": {
+      "name": "나눔손글씨 세아체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%84%B8%EC%95%84%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.426,
+        "stroke_std": 0.7287,
+        "density": 0.0226,
+        "aspect": 1.3106,
+        "centroid_x": 0.488,
+        "centroid_y": 0.4936,
+        "endpoints": 6.2143,
+        "branches": 8.4286,
+        "slope": -0.1035,
+        "regions": {
+          "tl": {
+            "density": 0.0221,
+            "sw": 2.4917,
+            "sw_std": 0.8294,
+            "slope": 0.1573
+          },
+          "tr": {
+            "density": 0.0257,
+            "sw": 2.4603,
+            "sw_std": 0.769,
+            "slope": 0.639
+          },
+          "bl": {
+            "density": 0.0264,
+            "sw": 2.4291,
+            "sw_std": 0.716,
+            "slope": -0.1181
+          },
+          "br": {
+            "density": 0.0162,
+            "sw": 2.4717,
+            "sw_std": 0.8049,
+            "slope": -0.0183
+          }
+        }
+      }
+    },
+    "나눔손글씨_세화체": {
+      "name": "나눔손글씨 세화체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%84%B8%ED%99%94%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.8644,
+        "stroke_std": 0.9973,
+        "density": 0.0236,
+        "aspect": 1.5504,
+        "centroid_x": 0.4742,
+        "centroid_y": 0.4729,
+        "endpoints": 5.5,
+        "branches": 6.0714,
+        "slope": 0.0556,
+        "regions": {
+          "tl": {
+            "density": 0.032,
+            "sw": 2.8861,
+            "sw_std": 1.0303,
+            "slope": 0.226
+          },
+          "tr": {
+            "density": 0.028,
+            "sw": 2.9396,
+            "sw_std": 1.0705,
+            "slope": 0.6012
+          },
+          "bl": {
+            "density": 0.0214,
+            "sw": 2.8258,
+            "sw_std": 0.9638,
+            "slope": -0.2481
+          },
+          "br": {
+            "density": 0.0132,
+            "sw": 2.8701,
+            "sw_std": 0.987,
+            "slope": -0.0628
+          }
+        }
+      }
+    },
+    "나눔손글씨_소미체": {
+      "name": "나눔손글씨 소미체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%86%8C%EB%AF%B8%EC%B2%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 4.1646,
+        "stroke_std": 1.9451,
+        "density": 0.0468,
+        "aspect": 1.5251,
+        "centroid_x": 0.4717,
+        "centroid_y": 0.4953,
+        "endpoints": 5.5714,
+        "branches": 8.1429,
+        "slope": -0.5218,
+        "regions": {
+          "tl": {
+            "density": 0.041,
+            "sw": 3.9627,
+            "sw_std": 1.8156,
+            "slope": -0.1706
+          },
+          "tr": {
+            "density": 0.0568,
+            "sw": 4.6377,
+            "sw_std": 2.3965,
+            "slope": 0.4154
+          },
+          "bl": {
+            "density": 0.0499,
+            "sw": 3.9463,
+            "sw_std": 1.7474,
+            "slope": -0.0421
+          },
+          "br": {
+            "density": 0.0394,
+            "sw": 4.946,
+            "sw_std": 2.556,
+            "slope": -0.861
+          }
+        }
+      }
+    },
+    "나눔손글씨_소방관의_기도": {
+      "name": "나눔손글씨 소방관의 기도",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%86%8C%EB%B0%A9%EA%B4%80%EC%9D%98%20%EA%B8%B0%EB%8F%84.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.2505,
+        "stroke_std": 0.5942,
+        "density": 0.0171,
+        "aspect": 0.9786,
+        "centroid_x": 0.4836,
+        "centroid_y": 0.4843,
+        "endpoints": 5.8571,
+        "branches": 7.0,
+        "slope": 0.0688,
+        "regions": {
+          "tl": {
+            "density": 0.0195,
+            "sw": 2.2362,
+            "sw_std": 0.5432,
+            "slope": -0.0948
+          },
+          "tr": {
+            "density": 0.0208,
+            "sw": 2.3136,
+            "sw_std": 0.6814,
+            "slope": 0.4468
+          },
+          "bl": {
+            "density": 0.0148,
+            "sw": 2.1756,
+            "sw_std": 0.4131,
+            "slope": 0.2738
+          },
+          "br": {
+            "density": 0.0133,
+            "sw": 2.2693,
+            "sw_std": 0.5776,
+            "slope": 0.019
+          }
+        }
+      }
+    },
+    "나눔손글씨_손편지체": {
+      "name": "나눔손글씨 손편지체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%86%90%ED%8E%B8%EC%A7%80%EC%B2%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.8502,
+        "stroke_std": 1.0144,
+        "density": 0.0275,
+        "aspect": 1.3775,
+        "centroid_x": 0.4502,
+        "centroid_y": 0.4811,
+        "endpoints": 5.9286,
+        "branches": 6.7143,
+        "slope": -0.1645,
+        "regions": {
+          "tl": {
+            "density": 0.0344,
+            "sw": 2.9801,
+            "sw_std": 1.1654,
+            "slope": 0.0181
+          },
+          "tr": {
+            "density": 0.0344,
+            "sw": 3.1241,
+            "sw_std": 1.3549,
+            "slope": 0.8389
+          },
+          "bl": {
+            "density": 0.0363,
+            "sw": 2.8939,
+            "sw_std": 1.0826,
+            "slope": 0.5692
+          },
+          "br": {
+            "density": 0.0069,
+            "sw": 2.7248,
+            "sw_std": 0.895,
+            "slope": -0.5636
+          }
+        }
+      }
+    },
+    "나눔손글씨_수줍은_대학생": {
+      "name": "나눔손글씨 수줍은 대학생",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%88%98%EC%A4%8D%EC%9D%80%20%EB%8C%80%ED%95%99%EC%83%9D.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 3.1578,
+        "stroke_std": 1.2276,
+        "density": 0.0253,
+        "aspect": 1.2516,
+        "centroid_x": 0.4861,
+        "centroid_y": 0.4848,
+        "endpoints": 5.7143,
+        "branches": 6.5,
+        "slope": 0.1378,
+        "regions": {
+          "tl": {
+            "density": 0.0264,
+            "sw": 3.0979,
+            "sw_std": 1.1889,
+            "slope": -0.2537
+          },
+          "tr": {
+            "density": 0.0296,
+            "sw": 3.2251,
+            "sw_std": 1.2821,
+            "slope": 0.7238
+          },
+          "bl": {
+            "density": 0.0228,
+            "sw": 3.1862,
+            "sw_std": 1.2167,
+            "slope": 0.0112
+          },
+          "br": {
+            "density": 0.0224,
+            "sw": 3.2753,
+            "sw_std": 1.4198,
+            "slope": -0.5713
+          }
+        }
+      }
+    },
+    "나눔손글씨_시우_귀여워": {
+      "name": "나눔손글씨 시우 귀여워",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%8B%9C%EC%9A%B0%20%EA%B7%80%EC%97%AC%EC%9B%8C.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.2328,
+        "stroke_std": 0.5365,
+        "density": 0.0159,
+        "aspect": 1.7118,
+        "centroid_x": 0.4729,
+        "centroid_y": 0.4701,
+        "endpoints": 6.2143,
+        "branches": 4.9286,
+        "slope": 0.2591,
+        "regions": {
+          "tl": {
+            "density": 0.0239,
+            "sw": 2.2686,
+            "sw_std": 0.5865,
+            "slope": 0.2986
+          },
+          "tr": {
+            "density": 0.0147,
+            "sw": 2.2811,
+            "sw_std": 0.5846,
+            "slope": 0.603
+          },
+          "bl": {
+            "density": 0.017,
+            "sw": 2.2452,
+            "sw_std": 0.501,
+            "slope": 0.1615
+          },
+          "br": {
+            "density": 0.0078,
+            "sw": 2.1417,
+            "sw_std": 0.3327,
+            "slope": -0.2782
+          }
+        }
+      }
+    },
+    "나눔손글씨_신혼부부": {
+      "name": "나눔손글씨 신혼부부",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%8B%A0%ED%98%BC%EB%B6%80%EB%B6%80.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.5148,
+        "stroke_std": 0.827,
+        "density": 0.0212,
+        "aspect": 0.9675,
+        "centroid_x": 0.4889,
+        "centroid_y": 0.4479,
+        "endpoints": 5.4286,
+        "branches": 8.0,
+        "slope": 0.4159,
+        "regions": {
+          "tl": {
+            "density": 0.038,
+            "sw": 2.5386,
+            "sw_std": 0.8276,
+            "slope": 0.1866
+          },
+          "tr": {
+            "density": 0.0261,
+            "sw": 2.5526,
+            "sw_std": 0.8596,
+            "slope": 0.2854
+          },
+          "bl": {
+            "density": 0.0076,
+            "sw": 2.4218,
+            "sw_std": 0.5471,
+            "slope": 0.8211
+          },
+          "br": {
+            "density": 0.0175,
+            "sw": 2.5373,
+            "sw_std": 0.8187,
+            "slope": -0.0203
+          }
+        }
+      }
+    },
+    "나눔손글씨_아기사랑체": {
+      "name": "나눔손글씨 아기사랑체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%84%EA%B8%B0%EC%82%AC%EB%9E%91%EC%B2%B4.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.5981,
+        "stroke_std": 0.8617,
+        "density": 0.0227,
+        "aspect": 1.5018,
+        "centroid_x": 0.4686,
+        "centroid_y": 0.5022,
+        "endpoints": 5.6429,
+        "branches": 7.4286,
+        "slope": 0.039,
+        "regions": {
+          "tl": {
+            "density": 0.0224,
+            "sw": 2.6028,
+            "sw_std": 0.8602,
+            "slope": -0.0687
+          },
+          "tr": {
+            "density": 0.0159,
+            "sw": 2.5044,
+            "sw_std": 0.798,
+            "slope": 0.5842
+          },
+          "bl": {
+            "density": 0.0264,
+            "sw": 2.5995,
+            "sw_std": 0.8565,
+            "slope": 0.1616
+          },
+          "br": {
+            "density": 0.0262,
+            "sw": 2.7953,
+            "sw_std": 1.0556,
+            "slope": -0.9151
+          }
+        }
+      }
+    },
+    "나눔손글씨_아름드리_꽃나무": {
+      "name": "나눔손글씨 아름드리 꽃나무",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%84%EB%A6%84%EB%93%9C%EB%A6%AC%20%EA%BD%83%EB%82%98%EB%AC%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.1487,
+        "stroke_std": 0.4181,
+        "density": 0.0153,
+        "aspect": 1.0083,
+        "centroid_x": 0.4851,
+        "centroid_y": 0.4984,
+        "endpoints": 6.2143,
+        "branches": 5.6429,
+        "slope": 0.059,
+        "regions": {
+          "tl": {
+            "density": 0.0163,
+            "sw": 2.1263,
+            "sw_std": 0.3228,
+            "slope": 0.1882
+          },
+          "tr": {
+            "density": 0.0106,
+            "sw": 2.0917,
+            "sw_std": 0.2363,
+            "slope": 0.095
+          },
+          "bl": {
+            "density": 0.0177,
+            "sw": 2.1536,
+            "sw_std": 0.3793,
+            "slope": -0.2248
+          },
+          "br": {
+            "density": 0.0166,
+            "sw": 2.38,
+            "sw_std": 0.7634,
+            "slope": -0.3553
+          }
+        }
+      }
+    },
+    "나눔손글씨_아빠글씨": {
+      "name": "나눔손글씨 아빠글씨",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%84%EB%B9%A0%EA%B8%80%EC%94%A8.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.392,
+        "stroke_std": 0.7337,
+        "density": 0.0229,
+        "aspect": 1.0015,
+        "centroid_x": 0.4768,
+        "centroid_y": 0.4664,
+        "endpoints": 6.0714,
+        "branches": 8.7857,
+        "slope": 0.1284,
+        "regions": {
+          "tl": {
+            "density": 0.0298,
+            "sw": 2.3344,
+            "sw_std": 0.641,
+            "slope": 0.0489
+          },
+          "tr": {
+            "density": 0.0289,
+            "sw": 2.5527,
+            "sw_std": 0.8825,
+            "slope": 0.4313
+          },
+          "bl": {
+            "density": 0.0165,
+            "sw": 2.3268,
+            "sw_std": 0.5909,
+            "slope": -1.1279
+          },
+          "br": {
+            "density": 0.0164,
+            "sw": 2.3117,
+            "sw_std": 0.6731,
+            "slope": -0.0354
+          }
+        }
+      }
+    },
+    "나눔손글씨_아빠의_연애편지": {
+      "name": "나눔손글씨 아빠의 연애편지",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%84%EB%B9%A0%EC%9D%98%20%EC%97%B0%EC%95%A0%ED%8E%B8%EC%A7%80.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.5799,
+        "stroke_std": 0.8603,
+        "density": 0.0224,
+        "aspect": 0.895,
+        "centroid_x": 0.5099,
+        "centroid_y": 0.4723,
+        "endpoints": 6.2143,
+        "branches": 7.2143,
+        "slope": -0.0253,
+        "regions": {
+          "tl": {
+            "density": 0.0222,
+            "sw": 2.662,
+            "sw_std": 0.9084,
+            "slope": -0.2751
+          },
+          "tr": {
+            "density": 0.0329,
+            "sw": 2.8257,
+            "sw_std": 1.0521,
+            "slope": 0.3566
+          },
+          "bl": {
+            "density": 0.0171,
+            "sw": 2.4366,
+            "sw_std": 0.6965,
+            "slope": -0.785
+          },
+          "br": {
+            "density": 0.0175,
+            "sw": 2.4334,
+            "sw_std": 0.8031,
+            "slope": -0.0595
+          }
+        }
+      }
+    },
+    "나눔손글씨_아인맘_손글씨": {
+      "name": "나눔손글씨 아인맘 손글씨",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%84%EC%9D%B8%EB%A7%98%20%EC%86%90%EA%B8%80%EC%94%A8.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.8542,
+        "stroke_std": 1.0003,
+        "density": 0.0293,
+        "aspect": 1.3903,
+        "centroid_x": 0.4802,
+        "centroid_y": 0.4859,
+        "endpoints": 5.7857,
+        "branches": 6.2143,
+        "slope": 0.2181,
+        "regions": {
+          "tl": {
+            "density": 0.0389,
+            "sw": 2.9539,
+            "sw_std": 1.098,
+            "slope": 0.1973
+          },
+          "tr": {
+            "density": 0.0218,
+            "sw": 2.7965,
+            "sw_std": 0.9889,
+            "slope": 0.3594
+          },
+          "bl": {
+            "density": 0.0283,
+            "sw": 2.8067,
+            "sw_std": 0.9514,
+            "slope": 0.0436
+          },
+          "br": {
+            "density": 0.0282,
+            "sw": 3.0582,
+            "sw_std": 1.2132,
+            "slope": -0.5435
+          }
+        }
+      }
+    },
+    "나눔손글씨_아줌마_자유": {
+      "name": "나눔손글씨 아줌마 자유",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%84%EC%A4%8C%EB%A7%88%20%EC%9E%90%EC%9C%A0.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 3.6409,
+        "stroke_std": 1.5346,
+        "density": 0.0353,
+        "aspect": 1.4788,
+        "centroid_x": 0.4805,
+        "centroid_y": 0.4882,
+        "endpoints": 5.4286,
+        "branches": 6.9286,
+        "slope": -0.1289,
+        "regions": {
+          "tl": {
+            "density": 0.0426,
+            "sw": 3.7437,
+            "sw_std": 1.6072,
+            "slope": -0.1941
+          },
+          "tr": {
+            "density": 0.0381,
+            "sw": 4.2391,
+            "sw_std": 2.1503,
+            "slope": 0.5807
+          },
+          "bl": {
+            "density": 0.038,
+            "sw": 3.6334,
+            "sw_std": 1.4947,
+            "slope": -0.2364
+          },
+          "br": {
+            "density": 0.0224,
+            "sw": 3.5313,
+            "sw_std": 1.5212,
+            "slope": -0.2124
+          }
+        }
+      }
+    },
+    "나눔손글씨_안쌍체": {
+      "name": "나눔손글씨 안쌍체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%88%EC%8C%8D%EC%B2%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.6473,
+        "stroke_std": 0.8906,
+        "density": 0.0245,
+        "aspect": 0.8126,
+        "centroid_x": 0.5048,
+        "centroid_y": 0.4851,
+        "endpoints": 6.0714,
+        "branches": 6.8571,
+        "slope": -0.0397,
+        "regions": {
+          "tl": {
+            "density": 0.0234,
+            "sw": 2.5568,
+            "sw_std": 0.8031,
+            "slope": -0.1735
+          },
+          "tr": {
+            "density": 0.0326,
+            "sw": 2.7798,
+            "sw_std": 1.0326,
+            "slope": 0.2538
+          },
+          "bl": {
+            "density": 0.0191,
+            "sw": 2.5782,
+            "sw_std": 0.7738,
+            "slope": -1.0613
+          },
+          "br": {
+            "density": 0.0229,
+            "sw": 2.7089,
+            "sw_std": 0.9403,
+            "slope": 0.0043
+          }
+        }
+      }
+    },
+    "나눔손글씨_암스테르담": {
+      "name": "나눔손글씨 암스테르담",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%94%EC%8A%A4%ED%85%8C%EB%A5%B4%EB%8B%B4.ttf",
+      "category": "정자체",
+      "features": {
+        "stroke_width": 2.5193,
+        "stroke_std": 0.8323,
+        "density": 0.0226,
+        "aspect": 1.0535,
+        "centroid_x": 0.4863,
+        "centroid_y": 0.5018,
+        "endpoints": 5.5,
+        "branches": 7.1429,
+        "slope": 0.0341,
+        "regions": {
+          "tl": {
+            "density": 0.0225,
+            "sw": 2.4812,
+            "sw_std": 0.7973,
+            "slope": -0.0272
+          },
+          "tr": {
+            "density": 0.0167,
+            "sw": 2.3915,
+            "sw_std": 0.7198,
+            "slope": 0.0665
+          },
+          "bl": {
+            "density": 0.0255,
+            "sw": 2.5685,
+            "sw_std": 0.8315,
+            "slope": 0.1146
+          },
+          "br": {
+            "density": 0.0256,
+            "sw": 2.8313,
+            "sw_std": 1.1208,
+            "slope": -0.3118
+          }
+        }
+      }
+    },
+    "나눔손글씨_야근하는_김주임": {
+      "name": "나눔손글씨 야근하는 김주임",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%BC%EA%B7%BC%ED%95%98%EB%8A%94%20%EA%B9%80%EC%A3%BC%EC%9E%84.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.8471,
+        "stroke_std": 1.0066,
+        "density": 0.0307,
+        "aspect": 1.1441,
+        "centroid_x": 0.482,
+        "centroid_y": 0.4873,
+        "endpoints": 5.8571,
+        "branches": 6.5,
+        "slope": 0.0363,
+        "regions": {
+          "tl": {
+            "density": 0.0357,
+            "sw": 2.8854,
+            "sw_std": 1.0498,
+            "slope": -0.061
+          },
+          "tr": {
+            "density": 0.0324,
+            "sw": 2.9031,
+            "sw_std": 1.075,
+            "slope": 0.4313
+          },
+          "bl": {
+            "density": 0.0323,
+            "sw": 2.7959,
+            "sw_std": 0.9402,
+            "slope": 0.0357
+          },
+          "br": {
+            "density": 0.0225,
+            "sw": 2.8913,
+            "sw_std": 1.0494,
+            "slope": -0.1167
+          }
+        }
+      }
+    },
+    "나눔손글씨_야채장수_백금례": {
+      "name": "나눔손글씨 야채장수 백금례",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%95%BC%EC%B1%84%EC%9E%A5%EC%88%98%20%EB%B0%B1%EA%B8%88%EB%A1%80.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.6031,
+        "stroke_std": 0.8628,
+        "density": 0.0237,
+        "aspect": 1.1079,
+        "centroid_x": 0.4811,
+        "centroid_y": 0.5029,
+        "endpoints": 6.0,
+        "branches": 7.2143,
+        "slope": -0.243,
+        "regions": {
+          "tl": {
+            "density": 0.0212,
+            "sw": 2.5151,
+            "sw_std": 0.7935,
+            "slope": -0.2273
+          },
+          "tr": {
+            "density": 0.0235,
+            "sw": 2.6846,
+            "sw_std": 0.9501,
+            "slope": 0.3561
+          },
+          "bl": {
+            "density": 0.0283,
+            "sw": 2.5416,
+            "sw_std": 0.7761,
+            "slope": -0.4248
+          },
+          "br": {
+            "density": 0.0219,
+            "sw": 2.812,
+            "sw_std": 1.0536,
+            "slope": -0.4241
+          }
+        }
+      }
+    },
+    "나눔손글씨_엄마사랑": {
+      "name": "나눔손글씨 엄마사랑",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%97%84%EB%A7%88%EC%82%AC%EB%9E%91.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.6193,
+        "stroke_std": 0.8898,
+        "density": 0.0233,
+        "aspect": 0.8039,
+        "centroid_x": 0.4921,
+        "centroid_y": 0.4843,
+        "endpoints": 5.6429,
+        "branches": 6.3571,
+        "slope": 0.1113,
+        "regions": {
+          "tl": {
+            "density": 0.0275,
+            "sw": 2.6163,
+            "sw_std": 0.8662,
+            "slope": -0.067
+          },
+          "tr": {
+            "density": 0.0244,
+            "sw": 2.692,
+            "sw_std": 0.9837,
+            "slope": 0.2971
+          },
+          "bl": {
+            "density": 0.0181,
+            "sw": 2.5349,
+            "sw_std": 0.7915,
+            "slope": 0.23
+          },
+          "br": {
+            "density": 0.0232,
+            "sw": 2.7001,
+            "sw_std": 0.9788,
+            "slope": -0.21
+          }
+        }
+      }
+    },
+    "나눔손글씨_엉겅퀴체": {
+      "name": "나눔손글씨 엉겅퀴체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%97%89%EA%B2%85%ED%80%B4%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.0849,
+        "stroke_std": 0.3145,
+        "density": 0.0147,
+        "aspect": 0.9821,
+        "centroid_x": 0.4883,
+        "centroid_y": 0.5048,
+        "endpoints": 5.9286,
+        "branches": 5.1429,
+        "slope": -0.1126,
+        "regions": {
+          "tl": {
+            "density": 0.0133,
+            "sw": 2.0707,
+            "sw_std": 0.2292,
+            "slope": -0.5667
+          },
+          "tr": {
+            "density": 0.0127,
+            "sw": 2.0276,
+            "sw_std": 0.1139,
+            "slope": 0.291
+          },
+          "bl": {
+            "density": 0.0169,
+            "sw": 2.1041,
+            "sw_std": 0.2988,
+            "slope": -0.1254
+          },
+          "br": {
+            "density": 0.0162,
+            "sw": 2.1748,
+            "sw_std": 0.4705,
+            "slope": -0.2622
+          }
+        }
+      }
+    },
+    "나눔손글씨_여름글씨": {
+      "name": "나눔손글씨 여름글씨",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%97%AC%EB%A6%84%EA%B8%80%EC%94%A8.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.3056,
+        "stroke_std": 0.6343,
+        "density": 0.0171,
+        "aspect": 0.9013,
+        "centroid_x": 0.4839,
+        "centroid_y": 0.4689,
+        "endpoints": 6.0,
+        "branches": 8.1429,
+        "slope": 0.121,
+        "regions": {
+          "tl": {
+            "density": 0.0235,
+            "sw": 2.4718,
+            "sw_std": 0.741,
+            "slope": -0.3328
+          },
+          "tr": {
+            "density": 0.0189,
+            "sw": 2.4281,
+            "sw_std": 0.7905,
+            "slope": 0.4012
+          },
+          "bl": {
+            "density": 0.0113,
+            "sw": 2.2161,
+            "sw_std": 0.465,
+            "slope": 0.1758
+          },
+          "br": {
+            "density": 0.0148,
+            "sw": 2.2029,
+            "sw_std": 0.4586,
+            "slope": -0.4006
+          }
+        }
+      }
+    },
+    "나눔손글씨_연지체": {
+      "name": "나눔손글씨 연지체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%97%B0%EC%A7%80%EC%B2%B4.ttf",
+      "category": "캐주얼체",
+      "features": {
+        "stroke_width": 2.5957,
+        "stroke_std": 0.8577,
+        "density": 0.0254,
+        "aspect": 1.4027,
+        "centroid_x": 0.4773,
+        "centroid_y": 0.5009,
+        "endpoints": 5.7143,
+        "branches": 8.2857,
+        "slope": 0.0394,
+        "regions": {
+          "tl": {
+            "density": 0.0303,
+            "sw": 2.5876,
+            "sw_std": 0.8597,
+            "slope": -0.153
+          },
+          "tr": {
+            "density": 0.0177,
+            "sw": 2.6048,
+            "sw_std": 0.9022,
+            "slope": 0.535
+          },
+          "bl": {
+            "density": 0.0318,
+            "sw": 2.6584,
+            "sw_std": 0.9043,
+            "slope": 0.1431
+          },
+          "br": {
+            "density": 0.022,
+            "sw": 2.8317,
+            "sw_std": 1.0983,
+            "slope": -0.7414
+          }
+        }
+      }
+    },
+    "나눔손글씨_열아홉의_반짝임": {
+      "name": "나눔손글씨 열아홉의 반짝임",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%97%B4%EC%95%84%ED%99%89%EC%9D%98%20%EB%B0%98%EC%A7%9D%EC%9E%84.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.5935,
+        "stroke_std": 0.8669,
+        "density": 0.0227,
+        "aspect": 1.3567,
+        "centroid_x": 0.4733,
+        "centroid_y": 0.492,
+        "endpoints": 5.7143,
+        "branches": 6.1429,
+        "slope": -0.1784,
+        "regions": {
+          "tl": {
+            "density": 0.0203,
+            "sw": 2.5225,
+            "sw_std": 0.8,
+            "slope": -0.2282
+          },
+          "tr": {
+            "density": 0.0313,
+            "sw": 2.7388,
+            "sw_std": 1.0353,
+            "slope": 0.5709
+          },
+          "bl": {
+            "density": 0.0219,
+            "sw": 2.5141,
+            "sw_std": 0.7508,
+            "slope": -0.0541
+          },
+          "br": {
+            "density": 0.0171,
+            "sw": 2.6578,
+            "sw_std": 0.9287,
+            "slope": -0.0503
+          }
+        }
+      }
+    },
+    "나눔손글씨_열일체": {
+      "name": "나눔손글씨 열일체",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%97%B4%EC%9D%BC%EC%B2%B4.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 2.6577,
+        "stroke_std": 0.91,
+        "density": 0.0227,
+        "aspect": 1.13,
+        "centroid_x": 0.4798,
+        "centroid_y": 0.4897,
+        "endpoints": 6.3571,
+        "branches": 7.0,
+        "slope": -0.1784,
+        "regions": {
+          "tl": {
+            "density": 0.0251,
+            "sw": 2.6468,
+            "sw_std": 0.8444,
+            "slope": -0.4548
+          },
+          "tr": {
+            "density": 0.0253,
+            "sw": 2.6572,
+            "sw_std": 0.9335,
+            "slope": 0.3238
+          },
+          "bl": {
+            "density": 0.0244,
+            "sw": 2.6616,
+            "sw_std": 0.8813,
+            "slope": -0.1081
+          },
+          "br": {
+            "density": 0.0161,
+            "sw": 2.7103,
+            "sw_std": 1.005,
+            "slope": -0.0579
+          }
+        }
+      }
+    },
+    "나눔손글씨_중학생": {
+      "name": "나눔손글씨 중학생",
+      "url": "https://ssl.pstatic.net/static/clova/service/clova_ai/event/handwriting/download/%EB%82%98%EB%88%94%EC%86%90%EA%B8%80%EC%94%A8%20%EC%A4%91%ED%95%99%EC%83%9D.ttf",
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 3.0436,
+        "stroke_std": 1.0948,
+        "density": 0.0281,
+        "aspect": 1.4223,
+        "centroid_x": 0.4771,
+        "centroid_y": 0.4836,
+        "endpoints": 5.5,
+        "branches": 6.1429,
+        "slope": 0.2879,
+        "regions": {
+          "tl": {
+            "density": 0.0386,
+            "sw": 3.1175,
+            "sw_std": 1.1821,
+            "slope": -0.0871
+          },
+          "tr": {
+            "density": 0.0252,
+            "sw": 3.2444,
+            "sw_std": 1.309,
+            "slope": 0.5819
+          },
+          "bl": {
+            "density": 0.0266,
+            "sw": 3.0408,
+            "sw_std": 1.0875,
+            "slope": 0.299
+          },
+          "br": {
+            "density": 0.0221,
+            "sw": 2.9554,
+            "sw_std": 1.0639,
+            "slope": -0.5972
+          }
+        }
+      }
+    },
+    "NanumPen": {
+      "name": "NanumPen",
+      "url": null,
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 3.4292,
+        "stroke_std": 1.409,
+        "density": 0.0343,
+        "aspect": 1.3114,
+        "centroid_x": 0.4739,
+        "centroid_y": 0.464,
+        "endpoints": 6.3571,
+        "branches": 7.7143,
+        "slope": -0.3182,
+        "regions": {
+          "tl": {
+            "density": 0.0444,
+            "sw": 3.4263,
+            "sw_std": 1.4113,
+            "slope": 0.07
+          },
+          "tr": {
+            "density": 0.0449,
+            "sw": 3.4864,
+            "sw_std": 1.4464,
+            "slope": 0.2684
+          },
+          "bl": {
+            "density": 0.0341,
+            "sw": 3.4468,
+            "sw_std": 1.3822,
+            "slope": -0.437
+          },
+          "br": {
+            "density": 0.0138,
+            "sw": 3.3096,
+            "sw_std": 1.3698,
+            "slope": 0.0039
+          }
+        }
+      }
+    },
+    "NanumBrush": {
+      "name": "NanumBrush",
+      "url": null,
+      "category": "흘림체",
+      "features": {
+        "stroke_width": 3.0848,
+        "stroke_std": 1.276,
+        "density": 0.0294,
+        "aspect": 1.1682,
+        "centroid_x": 0.4704,
+        "centroid_y": 0.4686,
+        "endpoints": 6.8571,
+        "branches": 8.2857,
+        "slope": -0.2455,
+        "regions": {
+          "tl": {
+            "density": 0.0387,
+            "sw": 3.0813,
+            "sw_std": 1.2194,
+            "slope": -0.1409
+          },
+          "tr": {
+            "density": 0.0359,
+            "sw": 3.0594,
+            "sw_std": 1.2254,
+            "slope": 0.2695
+          },
+          "bl": {
+            "density": 0.0303,
+            "sw": 3.0348,
+            "sw_std": 1.1757,
+            "slope": -0.0029
+          },
+          "br": {
+            "density": 0.0127,
+            "sw": 2.86,
+            "sw_std": 1.0497,
+            "slope": 0.0723
+          }
+        }
+      }
+    }
+  }
+}
